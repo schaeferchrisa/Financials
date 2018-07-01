@@ -4,7 +4,7 @@ An interactive financial calculator with a GUI.
 
 ## Sample Image
 
-(https://github.com/schaeferchrisa/financials/financialssample.png)
+(https://github.com/schaeferchrisa/Financials/blob/master/FinancialsSample.png)
 
 ## Purpose
 Calculates the future value of an annuity or the monthly payment of a loan based on user input.
