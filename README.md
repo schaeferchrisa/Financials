@@ -8,7 +8,7 @@ Written for a college Java course based on professor's requirements.
 
 View written in __Java Swing__. Main application class and business objects written in vanilla __Java__ using OOP practices.
 
-## Running the Applicaiton
+## Running the Application
 This project was written to compile in __Netbeans__ IDE.
 Running the compiled project requires the __Java Runtime Environment__, which can be downloaded [here](https://java.com/en/download/).
 
