@@ -17,4 +17,4 @@ Running the compiled project requires the __Java Runtime Environment__, which ca
 ![Sample Image](https://github.com/schaeferchrisa/Financials/blob/master/FinancialsSample.png)
 
 ## Acknowledgements
-Written with instruction from Paul Daniel at STLCC.
+Written with instruction from Paul Daniel at St. Louis Community College (STLCC).
